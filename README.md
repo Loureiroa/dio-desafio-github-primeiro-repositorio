@@ -1,2 +1,2 @@
 # dio-desafio-github-primeiro-repositorio
-Desafio de Projeto sobre Git/Github - Dio Santander Bootcamp
+Desafio de Projeto sobre Git/Github - Santander Bootcamp Fullstack Developer
